@@ -74,5 +74,11 @@ This repository has no control over the streams, links, or the legality of the c
 
 ---
 
+### 🤝 Contributing Details
+
+For detailed contributing guidelines including testing procedures and AI policy, please see [CONTRIBUTING.md](https://github.com/oe-alliance-plugins/.github/blob/main/docs/CONTRIBUTING.md).
+
+---
+
 ⭐️ If you find this plugin useful, please give it a star on GitHub!
 Thanks! ❤️ 💞 💖 ❤️‍🔥 💗
