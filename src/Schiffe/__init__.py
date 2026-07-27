@@ -1,8 +1,5 @@
-# PYTHON IMPORTS
 from gettext import bindtextdomain, dgettext, gettext
 from os.path import join
-
-# ENIGMA IMPORTS
 from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 
@@ -24,4 +21,4 @@ def _(txt):
 localeInit()
 language.addCallback(localeInit)
 
-__version__ = "7.1.0"
+__version__ = "7.1.2"

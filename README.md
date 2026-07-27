@@ -2,7 +2,7 @@
 
 # <p align="center">Schiffe Plugin for Enigma2 (E²) ![GitHub repo size](https://img.shields.io/github/repo-size/oe-alliance-plugins/Schiffe.svg)</p>
 
-**Schiffe Battleship Game FHD Modded by Lululla**
+**Schiffe Battleship Game FHD/WQHD Modded by Lululla**
 
 
 ## Github status
